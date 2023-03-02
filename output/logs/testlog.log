@@ -319,3 +319,339 @@
 2023-02-28 13:14:32,420 - logger_File -INFO - User filled the signUp information form
 2023-02-28 13:14:32,481 - logger_File -INFO - User click on signUp button
 2023-02-28 13:14:32,871 - logger_File -INFO - user is logged into account page
+2023-02-28 17:41:37,776 - logger_File -INFO - user click on sign in option
+2023-02-28 17:41:37,853 - logger_File -INFO - User clicked on Create New Account button
+2023-02-28 17:41:38,098 - logger_File -INFO - User filled the signUp information form
+2023-02-28 17:41:38,151 - logger_File -INFO - User click on signUp button
+2023-02-28 17:41:38,539 - logger_File -INFO - user is logged into account page
+2023-02-28 17:42:41,883 - logger_File -INFO - user click on sign in option
+2023-02-28 17:42:41,942 - logger_File -INFO - User clicked on Create New Account button
+2023-02-28 17:42:42,182 - logger_File -INFO - User filled the signUp information form
+2023-02-28 17:42:42,235 - logger_File -INFO - User click on signUp button
+2023-02-28 17:44:13,227 - logger_File -INFO - user click on sign in option
+2023-02-28 17:44:13,376 - logger_File -INFO - user entered email and password
+2023-02-28 17:44:13,429 - logger_File -INFO - user clicked on login button
+2023-02-28 17:44:13,764 - logger_File -INFO - user is logged in into Account
+2023-02-28 17:44:40,801 - logger_File -INFO - user click on sign in option
+2023-02-28 17:44:40,993 - logger_File -INFO - user entered email and password
+2023-02-28 17:44:41,046 - logger_File -INFO - user clicked on login button
+2023-02-28 17:44:41,456 - logger_File -INFO - user is logged in into Account
+2023-02-28 17:45:13,520 - logger_File -INFO - user click on sign in option
+2023-02-28 17:45:13,695 - logger_File -INFO - user entered email and password
+2023-02-28 17:45:13,749 - logger_File -INFO - user clicked on login button
+2023-02-28 17:45:14,094 - logger_File -INFO - user is logged in into Account
+2023-02-28 17:45:14,170 - logger_File -INFO - User clicked on Account option
+2023-02-28 17:45:14,228 - logger_File -INFO - User click on Add a payment method link
+2023-02-28 17:45:14,566 - logger_File -INFO - User entered card information
+2023-02-28 17:45:14,619 - logger_File -INFO - User click on Add your card button
+2023-02-28 17:45:15,447 - logger_File -INFO - payment method added
+2023-02-28 17:49:51,837 - logger_File -INFO - user click on sign in option
+2023-02-28 17:49:52,014 - logger_File -INFO - user entered email and password
+2023-02-28 17:49:52,065 - logger_File -INFO - user clicked on login button
+2023-02-28 17:49:52,414 - logger_File -INFO - user is logged in into Account
+2023-02-28 17:49:52,496 - logger_File -INFO - User clicked on Account option
+2023-02-28 17:49:52,683 - logger_File -INFO - User entered new password
+2023-02-28 17:49:52,746 - logger_File -INFO - User clicked on Change Password button
+2023-02-28 17:49:54,108 - logger_File -INFO - Update password message is displayed
+2023-02-28 17:55:15,041 - logger_File -INFO - user click on sign in option
+2023-02-28 17:55:15,240 - logger_File -INFO - user entered email and password
+2023-02-28 17:55:15,293 - logger_File -INFO - user clicked on login button
+2023-02-28 17:56:03,323 - logger_File -INFO - user click on sign in option
+2023-02-28 17:56:03,498 - logger_File -INFO - user entered email and password
+2023-02-28 17:56:03,551 - logger_File -INFO - user clicked on login button
+2023-02-28 17:56:03,953 - logger_File -INFO - user is logged in into Account
+2023-02-28 17:56:04,033 - logger_File -INFO - User clicked on Account option
+2023-02-28 18:15:00,150 - logger_File -INFO - user click on sign in option
+2023-02-28 18:15:00,321 - logger_File -INFO - user entered email and password
+2023-02-28 18:15:00,374 - logger_File -INFO - user clicked on login button
+2023-02-28 18:15:01,832 - logger_File -INFO - user is logged in into Account
+2023-02-28 18:15:01,917 - logger_File -INFO - User clicked on Account option
+2023-02-28 18:15:02,467 - logger_File -INFO - User entered  new card information
+2023-02-28 18:16:40,313 - logger_File -INFO - user click on sign in option
+2023-02-28 18:16:40,480 - logger_File -INFO - user entered email and password
+2023-02-28 18:16:40,532 - logger_File -INFO - user clicked on login button
+2023-02-28 18:16:40,929 - logger_File -INFO - user is logged in into Account
+2023-02-28 18:16:41,013 - logger_File -INFO - User clicked on Account option
+2023-02-28 18:16:41,491 - logger_File -INFO - User entered  new card information
+2023-02-28 18:20:00,939 - logger_File -INFO - user click on sign in option
+2023-02-28 18:20:01,112 - logger_File -INFO - user entered email and password
+2023-02-28 18:20:01,165 - logger_File -INFO - user clicked on login button
+2023-02-28 18:20:02,058 - logger_File -INFO - user is logged in into Account
+2023-02-28 18:20:02,138 - logger_File -INFO - User clicked on Account option
+2023-02-28 18:20:03,159 - logger_File -INFO - User entered  new card information
+2023-02-28 18:21:42,939 - logger_File -INFO - user click on sign in option
+2023-02-28 18:21:43,112 - logger_File -INFO - user entered email and password
+2023-02-28 18:21:43,166 - logger_File -INFO - user clicked on login button
+2023-02-28 18:21:43,564 - logger_File -INFO - user is logged in into Account
+2023-02-28 18:21:43,649 - logger_File -INFO - User clicked on Account option
+2023-02-28 18:21:44,326 - logger_File -INFO - User entered  new card information
+2023-02-28 18:24:11,084 - logger_File -INFO - user click on sign in option
+2023-02-28 18:24:11,265 - logger_File -INFO - user entered email and password
+2023-02-28 18:24:11,318 - logger_File -INFO - user clicked on login button
+2023-02-28 18:24:11,659 - logger_File -INFO - user is logged in into Account
+2023-02-28 18:24:11,736 - logger_File -INFO - User clicked on Account option
+2023-02-28 18:24:12,448 - logger_File -INFO - User entered  new card information
+2023-02-28 18:27:16,804 - logger_File -INFO - user click on sign in option
+2023-02-28 18:27:16,976 - logger_File -INFO - user entered email and password
+2023-02-28 18:27:17,028 - logger_File -INFO - user clicked on login button
+2023-02-28 18:27:17,367 - logger_File -INFO - user is logged in into Account
+2023-02-28 18:27:17,444 - logger_File -INFO - User clicked on Account option
+2023-02-28 18:27:18,261 - logger_File -INFO - User entered  new card information
+2023-02-28 18:27:19,140 - logger_File -INFO - payment method updated
+2023-02-28 18:30:41,529 - logger_File -INFO - user click on sign in option
+2023-02-28 18:30:41,696 - logger_File -INFO - user entered email and password
+2023-02-28 18:30:41,748 - logger_File -INFO - user clicked on login button
+2023-02-28 18:30:42,097 - logger_File -INFO - user is logged in into Account
+2023-02-28 18:30:42,173 - logger_File -INFO - User clicked on Account option
+2023-02-28 18:39:46,205 - logger_File -INFO - user click on sign in option
+2023-02-28 18:39:46,389 - logger_File -INFO - user entered email and password
+2023-02-28 18:39:46,440 - logger_File -INFO - user clicked on login button
+2023-02-28 18:39:46,794 - logger_File -INFO - user is logged in into Account
+2023-02-28 18:39:46,871 - logger_File -INFO - User clicked on Account option
+2023-02-28 18:41:05,538 - logger_File -INFO - user click on sign in option
+2023-02-28 18:41:05,711 - logger_File -INFO - user entered email and password
+2023-02-28 18:41:05,762 - logger_File -INFO - user clicked on login button
+2023-02-28 18:41:06,174 - logger_File -INFO - user is logged in into Account
+2023-02-28 18:41:06,254 - logger_File -INFO - User clicked on Account option
+2023-02-28 18:45:53,064 - logger_File -INFO - user click on sign in option
+2023-02-28 18:45:53,235 - logger_File -INFO - user entered email and password
+2023-02-28 18:45:53,291 - logger_File -INFO - user clicked on login button
+2023-02-28 18:45:53,747 - logger_File -INFO - user is logged in into Account
+2023-02-28 18:45:53,825 - logger_File -INFO - User clicked on Account option
+2023-02-28 18:49:12,397 - logger_File -INFO - user click on sign in option
+2023-02-28 18:49:12,561 - logger_File -INFO - user entered email and password
+2023-02-28 18:49:12,614 - logger_File -INFO - user clicked on login button
+2023-02-28 18:49:13,009 - logger_File -INFO - user is logged in into Account
+2023-02-28 18:49:13,092 - logger_File -INFO - User clicked on Account option
+2023-02-28 19:28:45,741 - logger_File -INFO - user click on sign in option
+2023-02-28 19:28:45,921 - logger_File -INFO - user entered email and password
+2023-02-28 19:28:45,972 - logger_File -INFO - user clicked on login button
+2023-02-28 19:28:46,325 - logger_File -INFO - user is logged in into Account
+2023-02-28 19:28:46,404 - logger_File -INFO - User clicked on Account option
+2023-02-28 19:28:46,473 - logger_File -INFO - User clicked on Add address option
+2023-02-28 19:34:54,224 - logger_File -INFO - user click on sign in option
+2023-02-28 19:34:54,402 - logger_File -INFO - user entered email and password
+2023-02-28 19:34:54,462 - logger_File -INFO - user clicked on login button
+2023-02-28 19:34:54,810 - logger_File -INFO - user is logged in into Account
+2023-02-28 19:34:54,886 - logger_File -INFO - User clicked on Account option
+2023-02-28 19:34:54,953 - logger_File -INFO - User clicked on Add address option
+2023-02-28 19:34:55,467 - logger_File -INFO - user filled new address form
+2023-02-28 19:34:55,545 - logger_File -INFO - User clicked Add Your Address button
+2023-02-28 19:37:50,120 - logger_File -INFO - user click on sign in option
+2023-02-28 19:37:50,290 - logger_File -INFO - user entered email and password
+2023-02-28 19:37:50,342 - logger_File -INFO - user clicked on login button
+2023-02-28 19:37:50,679 - logger_File -INFO - user is logged in into Account
+2023-02-28 19:37:50,756 - logger_File -INFO - User clicked on Account option
+2023-02-28 19:37:50,823 - logger_File -INFO - User clicked on Add address option
+2023-02-28 19:37:51,333 - logger_File -INFO - user filled new address form
+2023-02-28 19:37:51,404 - logger_File -INFO - User clicked Add Your Address button
+2023-02-28 19:43:17,255 - logger_File -INFO - user click on sign in option
+2023-02-28 19:43:17,423 - logger_File -INFO - user entered email and password
+2023-02-28 19:43:17,477 - logger_File -INFO - user clicked on login button
+2023-02-28 19:43:17,816 - logger_File -INFO - user is logged in into Account
+2023-02-28 19:43:17,896 - logger_File -INFO - User clicked on Account option
+2023-02-28 19:43:17,962 - logger_File -INFO - User clicked on Add address option
+2023-02-28 19:43:18,477 - logger_File -INFO - user filled new address form
+2023-02-28 19:43:18,544 - logger_File -INFO - User clicked Add Your Address button
+2023-02-28 19:48:04,777 - logger_File -INFO - user click on sign in option
+2023-02-28 19:48:04,948 - logger_File -INFO - user entered email and password
+2023-02-28 19:48:05,000 - logger_File -INFO - user clicked on login button
+2023-02-28 19:48:05,340 - logger_File -INFO - user is logged in into Account
+2023-02-28 19:48:05,418 - logger_File -INFO - User clicked on Account option
+2023-02-28 19:48:05,486 - logger_File -INFO - User clicked on Add address option
+2023-02-28 19:48:05,991 - logger_File -INFO - user filled new address form
+2023-02-28 19:48:06,062 - logger_File -INFO - User clicked Add Your Address button
+2023-02-28 19:48:06,823 - logger_File -INFO - Address Added
+2023-03-01 20:58:30,835 - logger_File -INFO - user click on sign in option
+2023-03-01 20:58:31,236 - logger_File -INFO - user entered email and password
+2023-03-01 20:58:31,357 - logger_File -INFO - user clicked on login button
+2023-03-01 20:58:32,118 - logger_File -INFO - user is logged in into Account
+2023-03-01 20:58:32,332 - logger_File -INFO - User clicked on Account option
+2023-03-01 20:58:32,491 - logger_File -INFO - User clicked on Add address option
+2023-03-01 20:58:33,717 - logger_File -INFO - user filled new address form
+2023-03-01 20:58:33,910 - logger_File -INFO - User clicked Add Your Address button
+2023-03-01 20:58:34,752 - logger_File -INFO - Address Added
+2023-03-01 21:00:06,079 - logger_File -INFO - user click on sign in option
+2023-03-01 21:00:06,467 - logger_File -INFO - user entered email and password
+2023-03-01 21:00:06,589 - logger_File -INFO - user clicked on login button
+2023-03-01 21:00:06,966 - logger_File -INFO - user is logged in into Account
+2023-03-01 21:00:07,164 - logger_File -INFO - User clicked on Account option
+2023-03-01 21:08:54,217 - logger_File -INFO - user click on sign in option
+2023-03-01 21:08:54,552 - logger_File -INFO - user entered email and password
+2023-03-01 21:08:54,680 - logger_File -INFO - user clicked on login button
+2023-03-01 21:08:55,113 - logger_File -INFO - user is logged in into Account
+2023-03-01 21:08:55,308 - logger_File -INFO - User clicked on Account option
+2023-03-01 21:08:55,471 - logger_File -INFO - User clicked on Add address option
+2023-03-01 21:08:56,623 - logger_File -INFO - user filled new address form
+2023-03-01 21:08:56,803 - logger_File -INFO - User clicked Add Your Address button
+2023-03-01 21:08:57,627 - logger_File -INFO - Address Added
+2023-03-01 21:31:43,552 - logger_File -INFO - user click on sign in option
+2023-03-01 21:31:43,955 - logger_File -INFO - user entered email and password
+2023-03-01 21:31:44,090 - logger_File -INFO - user clicked on login button
+2023-03-01 21:31:44,512 - logger_File -INFO - user is logged in into Account
+2023-03-01 21:31:44,715 - logger_File -INFO - User clicked on Account option
+2023-03-01 21:31:44,889 - logger_File -INFO - User clicked on edit address button
+2023-03-01 21:31:46,066 - logger_File -INFO - User fill new address form
+2023-03-01 21:31:46,217 - logger_File -INFO - User clicked update Your Address button
+2023-03-01 22:12:34,773 - logger_File -INFO - user click on sign in option
+2023-03-01 22:12:35,155 - logger_File -INFO - user entered email and password
+2023-03-01 22:12:35,300 - logger_File -INFO - user clicked on login button
+2023-03-01 22:12:35,751 - logger_File -INFO - user is logged in into Account
+2023-03-01 22:12:35,941 - logger_File -INFO - User clicked on Account option
+2023-03-01 22:12:36,244 - logger_File -INFO - User clicked on edit address button
+2023-03-01 22:12:37,979 - logger_File -INFO - User fill new address form
+2023-03-01 22:12:38,122 - logger_File -INFO - User clicked update Your Address button
+2023-03-01 22:19:10,722 - logger_File -INFO - user click on sign in option
+2023-03-01 22:19:11,138 - logger_File -INFO - user entered email and password
+2023-03-01 22:19:11,286 - logger_File -INFO - user clicked on login button
+2023-03-01 22:19:11,708 - logger_File -INFO - user is logged in into Account
+2023-03-01 22:19:11,889 - logger_File -INFO - User clicked on Account option
+2023-03-01 22:19:12,120 - logger_File -INFO - User clicked on edit address button
+2023-03-01 22:19:13,686 - logger_File -INFO - User fill new address form
+2023-03-01 22:19:13,828 - logger_File -INFO - User clicked update Your Address button
+2023-03-01 22:22:05,647 - logger_File -INFO - user click on sign in option
+2023-03-01 22:22:06,010 - logger_File -INFO - user entered email and password
+2023-03-01 22:22:06,140 - logger_File -INFO - user clicked on login button
+2023-03-01 22:22:06,593 - logger_File -INFO - user is logged in into Account
+2023-03-01 22:22:06,777 - logger_File -INFO - User clicked on Account option
+2023-03-01 22:22:07,023 - logger_File -INFO - User clicked on edit address button
+2023-03-01 22:22:08,580 - logger_File -INFO - User fill new address form
+2023-03-01 22:22:08,738 - logger_File -INFO - User clicked update Your Address button
+2023-03-01 22:26:39,767 - logger_File -INFO - user click on sign in option
+2023-03-01 22:26:40,131 - logger_File -INFO - user entered email and password
+2023-03-01 22:26:40,265 - logger_File -INFO - user clicked on login button
+2023-03-01 22:26:40,704 - logger_File -INFO - user is logged in into Account
+2023-03-01 22:26:40,908 - logger_File -INFO - User clicked on Account option
+2023-03-01 22:26:41,074 - logger_File -INFO - User clicked on edit address button
+2023-03-01 22:31:11,750 - logger_File -INFO - user click on sign in option
+2023-03-01 22:31:12,138 - logger_File -INFO - user entered email and password
+2023-03-01 22:31:12,264 - logger_File -INFO - user clicked on login button
+2023-03-01 22:31:12,662 - logger_File -INFO - user is logged in into Account
+2023-03-01 22:31:12,844 - logger_File -INFO - User clicked on Account option
+2023-03-01 22:31:13,098 - logger_File -INFO - User clicked on edit address button
+2023-03-01 22:31:14,573 - logger_File -INFO - User fill new address form
+2023-03-01 22:31:14,735 - logger_File -INFO - User clicked update Your Address button
+2023-03-01 22:36:06,553 - logger_File -INFO - user click on sign in option
+2023-03-01 22:36:06,906 - logger_File -INFO - user entered email and password
+2023-03-01 22:36:07,037 - logger_File -INFO - user clicked on login button
+2023-03-01 22:36:07,438 - logger_File -INFO - user is logged in into Account
+2023-03-01 22:36:07,625 - logger_File -INFO - User clicked on Account option
+2023-03-01 22:36:07,924 - logger_File -INFO - User clicked on edit address button
+2023-03-01 22:36:09,625 - logger_File -INFO - User fill new address form
+2023-03-01 22:36:09,792 - logger_File -INFO - User clicked update Your Address button
+2023-03-01 22:39:39,650 - logger_File -INFO - user click on sign in option
+2023-03-01 22:39:40,020 - logger_File -INFO - user entered email and password
+2023-03-01 22:39:40,147 - logger_File -INFO - user clicked on login button
+2023-03-01 22:39:40,890 - logger_File -INFO - user is logged in into Account
+2023-03-01 22:39:41,089 - logger_File -INFO - User clicked on Account option
+2023-03-01 22:39:41,256 - logger_File -INFO - User clicked on edit address button
+2023-03-01 22:39:42,971 - logger_File -INFO - User fill new address form
+2023-03-01 22:39:43,179 - logger_File -INFO - User clicked update Your Address button
+2023-03-01 22:39:44,096 - logger_File -INFO - Address updated
+2023-03-01 22:40:43,569 - logger_File -INFO - user click on sign in option
+2023-03-01 22:40:43,934 - logger_File -INFO - user entered email and password
+2023-03-01 22:40:44,061 - logger_File -INFO - user clicked on login button
+2023-03-01 22:40:44,505 - logger_File -INFO - user is logged in into Account
+2023-03-01 22:40:44,686 - logger_File -INFO - User clicked on Account option
+2023-03-01 22:40:44,864 - logger_File -INFO - User clicked on Add address option
+2023-03-01 22:40:46,006 - logger_File -INFO - user filled address form
+2023-03-01 22:40:46,188 - logger_File -INFO - User clicked Add Your Address button
+2023-03-01 22:40:47,029 - logger_File -INFO - Address Added
+2023-03-01 22:41:14,656 - logger_File -INFO - user click on sign in option
+2023-03-01 22:41:14,996 - logger_File -INFO - user entered email and password
+2023-03-01 22:41:15,119 - logger_File -INFO - user clicked on login button
+2023-03-01 22:41:15,507 - logger_File -INFO - user is logged in into Account
+2023-03-01 22:41:15,696 - logger_File -INFO - User clicked on Account option
+2023-03-01 22:41:15,999 - logger_File -INFO - User clicked on edit address button
+2023-03-01 22:41:17,619 - logger_File -INFO - User fill new address form
+2023-03-01 22:41:17,755 - logger_File -INFO - User clicked update Your Address button
+2023-03-01 22:41:18,696 - logger_File -INFO - Address updated
+2023-03-01 22:45:06,721 - logger_File -INFO - user click on sign in option
+2023-03-01 22:45:07,173 - logger_File -INFO - user entered email and password
+2023-03-01 22:45:07,305 - logger_File -INFO - user clicked on login button
+2023-03-01 22:45:07,707 - logger_File -INFO - user is logged in into Account
+2023-03-01 22:45:07,920 - logger_File -INFO - User clicked on Account option
+2023-03-01 22:49:18,848 - logger_File -INFO - user click on sign in option
+2023-03-01 22:49:19,232 - logger_File -INFO - user entered email and password
+2023-03-01 22:49:19,358 - logger_File -INFO - user clicked on login button
+2023-03-01 22:49:19,784 - logger_File -INFO - user is logged in into Account
+2023-03-01 22:49:19,970 - logger_File -INFO - User clicked on Account option
+2023-03-01 22:49:20,158 - logger_File -INFO - User clicked on Add address option
+2023-03-01 22:49:21,377 - logger_File -INFO - user filled address form
+2023-03-01 22:49:21,528 - logger_File -INFO - User clicked Add Your Address button
+2023-03-01 22:49:22,480 - logger_File -INFO - Address Added
+2023-03-01 22:58:17,425 - logger_File -INFO - user click on sign in option
+2023-03-01 22:58:17,774 - logger_File -INFO - user entered email and password
+2023-03-01 22:58:17,901 - logger_File -INFO - user clicked on login button
+2023-03-01 22:58:18,355 - logger_File -INFO - user is logged in into Account
+2023-03-01 22:58:18,544 - logger_File -INFO - User clicked on Account option
+2023-03-01 22:58:18,811 - logger_File -INFO - User clicked on remove option of address section
+2023-03-01 22:59:58,697 - logger_File -INFO - user click on sign in option
+2023-03-01 22:59:59,064 - logger_File -INFO - user entered email and password
+2023-03-01 22:59:59,202 - logger_File -INFO - user clicked on login button
+2023-03-01 22:59:59,670 - logger_File -INFO - user is logged in into Account
+2023-03-01 22:59:59,880 - logger_File -INFO - User clicked on Account option
+2023-03-01 23:00:00,043 - logger_File -INFO - User clicked on Add address option
+2023-03-01 23:00:01,144 - logger_File -INFO - user filled address form
+2023-03-01 23:00:01,328 - logger_File -INFO - User clicked Add Your Address button
+2023-03-01 23:00:02,248 - logger_File -INFO - Address Added
+2023-03-01 23:00:50,852 - logger_File -INFO - user click on sign in option
+2023-03-01 23:00:51,202 - logger_File -INFO - user entered email and password
+2023-03-01 23:00:51,332 - logger_File -INFO - user clicked on login button
+2023-03-01 23:00:51,790 - logger_File -INFO - user is logged in into Account
+2023-03-01 23:00:51,983 - logger_File -INFO - User clicked on Account option
+2023-03-01 23:00:52,202 - logger_File -INFO - User clicked on remove option of address section
+2023-03-02 12:17:07,619 - logger_File -INFO - user click on sign in option
+2023-03-02 12:17:07,798 - logger_File -INFO - user entered email and password
+2023-03-02 12:17:07,852 - logger_File -INFO - user clicked on login button
+2023-03-02 12:17:53,705 - logger_File -INFO - user click on sign in option
+2023-03-02 12:17:53,879 - logger_File -INFO - user entered email and password
+2023-03-02 12:17:53,935 - logger_File -INFO - user clicked on login button
+2023-03-02 12:19:12,260 - logger_File -INFO - user click on sign in option
+2023-03-02 12:19:12,429 - logger_File -INFO - user entered email and password
+2023-03-02 12:19:12,490 - logger_File -INFO - user clicked on login button
+2023-03-02 12:19:43,744 - logger_File -INFO - user click on sign in option
+2023-03-02 12:19:43,914 - logger_File -INFO - user entered email and password
+2023-03-02 12:19:43,967 - logger_File -INFO - user clicked on login button
+2023-03-02 12:19:44,304 - logger_File -INFO - user is logged in into Account
+2023-03-02 12:19:44,381 - logger_File -INFO - User clicked on Account option
+2023-03-02 12:19:44,572 - logger_File -INFO - User entered personal information
+2023-03-02 12:19:44,634 - logger_File -INFO - User clicked on Update button
+2023-03-02 12:19:44,653 - logger_File -INFO - User profile information updated
+2023-03-02 12:20:47,478 - logger_File -INFO - user click on sign in option
+2023-03-02 12:20:47,662 - logger_File -INFO - user entered email and password
+2023-03-02 12:20:47,716 - logger_File -INFO - user clicked on login button
+2023-03-02 12:20:48,046 - logger_File -INFO - user is logged in into Account
+2023-03-02 12:20:48,124 - logger_File -INFO - User clicked on Account option
+2023-03-02 12:20:48,336 - logger_File -INFO - User entered personal information
+2023-03-02 12:20:48,392 - logger_File -INFO - User clicked on Update button
+2023-03-02 12:20:48,410 - logger_File -INFO - User profile information updated
+2023-03-02 12:29:35,326 - logger_File -INFO - user click on sign in option
+2023-03-02 12:29:35,495 - logger_File -INFO - user entered email and password
+2023-03-02 12:29:35,548 - logger_File -INFO - user clicked on login button
+2023-03-02 12:29:35,963 - logger_File -INFO - user is logged in into Account
+2023-03-02 12:29:36,043 - logger_File -INFO - User clicked on Account option
+2023-03-02 12:29:36,249 - logger_File -INFO - User entered personal information
+2023-03-02 12:29:36,304 - logger_File -INFO - User clicked on Update button
+2023-03-02 12:30:18,736 - logger_File -INFO - user click on sign in option
+2023-03-02 12:30:18,912 - logger_File -INFO - user entered email and password
+2023-03-02 12:30:18,967 - logger_File -INFO - user clicked on login button
+2023-03-02 12:30:19,493 - logger_File -INFO - user is logged in into Account
+2023-03-02 12:30:19,572 - logger_File -INFO - User clicked on Account option
+2023-03-02 12:30:19,773 - logger_File -INFO - User entered personal information
+2023-03-02 12:30:19,832 - logger_File -INFO - User clicked on Update button
+2023-03-02 12:30:20,675 - logger_File -INFO - User profile information updated
+2023-03-02 12:31:07,330 - logger_File -INFO - user click on sign in option
+2023-03-02 12:31:07,504 - logger_File -INFO - user entered email and password
+2023-03-02 12:31:07,557 - logger_File -INFO - user clicked on login button
+2023-03-02 12:31:07,921 - logger_File -INFO - user is logged in into Account
+2023-03-02 12:31:07,999 - logger_File -INFO - User clicked on Account option
+2023-03-02 12:31:08,193 - logger_File -INFO - User entered personal information
+2023-03-02 12:32:36,283 - logger_File -INFO - user click on sign in option
+2023-03-02 12:32:36,448 - logger_File -INFO - user entered email and password
+2023-03-02 12:32:36,502 - logger_File -INFO - user clicked on login button
+2023-03-02 12:32:36,850 - logger_File -INFO - user is logged in into Account
+2023-03-02 12:32:36,936 - logger_File -INFO - User clicked on Account option
+2023-03-02 12:32:37,134 - logger_File -INFO - User entered personal information
+2023-03-02 12:32:37,192 - logger_File -INFO - User clicked on Update button
+2023-03-02 12:32:38,014 - logger_File -INFO - User profile information updated
