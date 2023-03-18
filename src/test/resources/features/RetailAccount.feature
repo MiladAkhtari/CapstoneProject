@@ -3,27 +3,27 @@ Feature: Retail Account page
   Background: 
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'milad.milo@gmail.com' and password 'Milad.123'
+    And User enter email 'milad.milo@gmail.com' and password 'Milad.1234'
     And User click on login button
     Then User should be logged in into Account
 
-  @updateName
+  @testCase3
   Scenario: Verify User can Update profile information
     When User click on Account option
-    And User Update name 'milo' and phone '8587950889'
+    And User Update name 'Emad' and phone '9687950877'
     And User click on Update button
     Then User profile information should be updated
 
-  @updatePassword
+  @testCase4
   Scenario: Verify User can Update password
     When User click on Account option
     And User enter below information
       | previousPassword | newPassword | confirmPassword |
-      | Milad.123        | Milad.1234  | Milad.1234      |
+      | Milad.1234        | Milad.123  | Milad.123      |
     And User click on Change Password button
     Then a message should be displayed 'Password Updated Successfully'
 
-  @addPayment
+  @testCase5
   Scenario: Verify User can add a payment method
     When User click on Account option
     And User click on Add a payment method link
@@ -33,7 +33,7 @@ Feature: Retail Account page
     And User click on Add your card button
     Then message should be displayed 'Payment Method added successfully'
 
-  @editPayment
+  @testCase6
   Scenario: : Verify User can edit Debit or Credit card
     When User click on Account option
     And User click on Edit option of card section
@@ -43,13 +43,13 @@ Feature: Retail Account page
     And user click on Update Your Card button
     Then A message should be displayed 'Payment Method updated Successfully'
 
-  @removeCard
+  @testCase7
   Scenario: Verify User can remove Debit or Credit card
     When User click on Account option
     And User click on remove option of card section
     Then payment details should be removed
 
-  @addAddress
+  @testCase8
   Scenario: Verify User can add an Address
     When User click on Account option
     And User click on Add address option
@@ -59,7 +59,7 @@ Feature: Retail Account page
     And User click Add Your Address button
     Then a Message should be displayed 'Address Added Successfully'
 
-  @editAddress
+  @testCase9
   Scenario: Verify User can edit an Address added on account
     When User click on Account option
     And User click on edit address option
@@ -69,7 +69,7 @@ Feature: Retail Account page
     And User click update Your Address button
     Then a message should be displayed. 'Address Updated Successfully'
 
-  @removeAddress
+  @testCase10
   Scenario: Verify User can remove Address from Account
     When User click on Account option
     And User click on remove option of Address section

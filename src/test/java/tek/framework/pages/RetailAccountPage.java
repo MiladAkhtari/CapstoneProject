@@ -11,123 +11,82 @@ public class RetailAccountPage extends BaseSetup {
 		PageFactory.initElements(getDriver(), this);	
 	}
 	
-	@FindBy(xpath = "//img[@alt='profile pic']")
-	public  WebElement accountProfilePicture;
+	@FindBy(xpath = "//img[@alt='profile pic']") public  WebElement accountProfilePicture;
 	
-	@FindBy(id= "logoutBtn")
-	public WebElement logoutBtn;
+	@FindBy(id= "logoutBtn") public WebElement logoutBtn;
 	
-	@FindBy(id = "nameInput")
-	public WebElement nameField;
+	@FindBy(id = "nameInput") public WebElement nameField;
 	
-	@FindBy(id = "personalPhoneInput")
-	public WebElement phoneNumberField;
+	@FindBy(id = "personalPhoneInput") public WebElement phoneNumberField;
 	
-	@FindBy(id = "personalUpdateBtn")
-	public WebElement updateBtn;
+	@FindBy(id = "personalUpdateBtn") public WebElement updateBtn;
 	
-	@FindBy(xpath = "//div[contains(text(),'Personal Information Updated Successfully')]")
-	public WebElement updateMessage;
+	@FindBy(xpath = "//div[contains(text(),'Personal Information Updated Successfully')]") public WebElement updateMessage;
 	
+	@FindBy(id= "previousPasswordInput") public WebElement previousPasswordField;
 	
-	@FindBy(id= "previousPasswordInput")
-	public WebElement previousPasswordField;
+	@FindBy(id = "newPasswordInput") public WebElement newPasswordField;
 	
-	@FindBy(id = "newPasswordInput")
-	public WebElement newPasswordField;
+	@FindBy(id = "confirmPasswordInput") public WebElement confirmPasswordField;
 	
-	@FindBy(id = "confirmPasswordInput")
-	public WebElement confirmPasswordField;
+	@FindBy(id ="credentialsSubmitBtn") public WebElement changePasswordBtn;
 	
-	@FindBy(id ="credentialsSubmitBtn")
-	public WebElement changePasswordBtn;
+	@FindBy(xpath = "//div[contains(text(),'Password Updated Successfully')]") public WebElement updatedPasswordMessage;
 	
+	@FindBy(xpath= "//p[contains(text(),'Add a payment method')]") public WebElement addPaymentLink;
 	
-	@FindBy(xpath = "//div[contains(text(),'Password Updated Successfully')]")
-	public WebElement updatedPasswordMessage;
+	@FindBy(id = "cardNumberInput") public WebElement cardNumberField;
 	
-	@FindBy(xpath= "//p[contains(text(),'Add a payment method')]")
-	public WebElement addPaymentLink;
+	@FindBy(id = "nameOnCardInput") public WebElement nameOnCardField;
 	
-	@FindBy(id = "cardNumberInput")
-	public WebElement cardNumberField;
+	@FindBy(id = "expirationMonthInput") public WebElement expirationMonthField;
 	
-	@FindBy(id = "nameOnCardInput")
-	public WebElement nameOnCardField;
+	@FindBy(id = "expirationYearInput") public WebElement expirationYearField;
 	
-	@FindBy(id = "expirationMonthInput")
-	public WebElement expirationMonthField;
+	@FindBy(id = "securityCodeInput") public WebElement securityCodeField;
 	
-	@FindBy(id = "expirationYearInput")
-	public WebElement expirationYearField;
+	@FindBy(id = "paymentSubmitBtn") public WebElement addCardBtn;
 	
-	@FindBy(id = "securityCodeInput")
-	public WebElement securityCodeField;
+	@FindBy(xpath = "//div[contains(text(),'Payment Method added sucessfully')]") public WebElement paymentMethodMessage;
 	
-	@FindBy(id = "paymentSubmitBtn")
-	public WebElement addCardBtn;
+	@FindBy(xpath = "//p[contains(text(),'Visa Card')] | //p[contains(text(),'Master Card')]") public WebElement card;
 	
-	@FindBy(xpath = "//div[contains(text(),'Payment Method added sucessfully')]")
-	public WebElement paymentMethodMessage;
+	@FindBy(xpath = "//button[contains(text(),'Edit')]") public WebElement editBtn;
 	
-	@FindBy(xpath = "//p[contains(text(),'Visa Card')] | //p[contains(text(),'Master Card')]")
-	public WebElement card;
+	@FindBy(xpath = "//button[@id='paymentSubmitBtn']") public WebElement UpdateCardBtn;
 	
-	@FindBy(xpath = "//button[contains(text(),'Edit')]")
-	public WebElement editBtn;
+	@FindBy(xpath = "//div[contains(text(),'Payment Method updated Successfully')]") public WebElement updateCardMessage;
 	
-	@FindBy(xpath = "//button[@id='paymentSubmitBtn']")
-	public WebElement UpdateCardBtn;
+	@FindBy (xpath = "//button[contains(text(),'remove')]") public WebElement removeCardBtn;
 	
-	@FindBy(xpath = "//div[contains(text(),'Payment Method updated Successfully')]")
-	public WebElement updateCardMessage;
+	//Add Address
+	@FindBy(xpath = "//p[contains(text(),'Add Address')]") public WebElement addAddress;
 	
-	@FindBy (xpath = "//button[contains(text(),'remove')]")
-	public WebElement removeCardBtn;
+	@FindBy(xpath ="//select[@id='countryDropdown']") public WebElement countryDropdown;
 	
-	//-----------------------Add Address
-	@FindBy(xpath = "//p[contains(text(),'Add Address')]")
-	public WebElement addAddress;
+	@FindBy(id = "fullNameInput") public WebElement fullName;
 	
-	@FindBy(xpath ="//select[@id='countryDropdown']")
-	public WebElement countryDropdown;
+	@FindBy(id = "phoneNumberInput") public WebElement phoneNumber;
 	
-	@FindBy(id = "fullNameInput")
-	public WebElement fullName;
+	@FindBy(id = "streetInput") public WebElement street;
 	
-	@FindBy(id = "phoneNumberInput")
-	public WebElement phoneNumber;
+	@FindBy(id = "apartmentInput") public WebElement apt;
 	
-	@FindBy(id = "streetInput")
-	public WebElement street;
+	@FindBy(id = "cityInput") public WebElement city;
 	
-	@FindBy(id = "apartmentInput")
-	public WebElement apt;
+	@FindBy(xpath = "//select[@name='state']") public WebElement state;
 	
-	@FindBy(id = "cityInput")
-	public WebElement city;
+	@FindBy(id = "zipCodeInput") public WebElement zip;
 	
-	@FindBy(xpath = "//select[@name='state']")
-	public WebElement state;
+	@FindBy(id = "addressBtn") public WebElement addressBtn;
 	
-	@FindBy(id = "zipCodeInput")
-	public WebElement zip;
+	@FindBy (xpath ="//div[contains(text(),'Address Added Successfully')]") public WebElement addressMessage;
+	//edit address
+	@FindBy (xpath = "//button[contains(text(),'Edit')]") public WebElement editAddressBtn;
 	
-	@FindBy(id = "addressBtn")
-	public WebElement addressBtn;
+	@FindBy(id = "addressBtn") public WebElement updateAddressBtn;
 	
-	@FindBy (xpath ="//div[contains(text(),'Address Added Successfully')]")
-	public WebElement addressMessage;
-	//-------------edit address
-	@FindBy (xpath = "//button[contains(text(),'Edit')]")
-	public WebElement editAddressBtn;
-	
-	@FindBy(id = "addressBtn")
-	public WebElement updateAddressBtn;
-	
-	@FindBy(xpath = "//div[contains(text(),'Address Updated Successfully')]")
-	public WebElement updatedAddressMessage;
-	//------------remove address option
-	@FindBy(xpath = "//button[contains(text(),'Remove')]")
-	public WebElement removeAddressBtn;
+	@FindBy(xpath = "//div[contains(text(),'Address Updated Successfully')]") public WebElement updatedAddressMessage;
+	//remove address option
+	@FindBy(xpath = "//button[contains(text(),'Remove')]") public WebElement removeAddressBtn;
 }
